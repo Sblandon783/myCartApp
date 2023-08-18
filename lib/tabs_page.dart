@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:soccer/pages/home/home_page.dart';
+import 'package:my_cart/pages/home/home_page.dart';
 
 class TabsPage extends StatelessWidget {
   const TabsPage({super.key});
